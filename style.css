@@ -1,0 +1,78 @@
+.a{
+    background-color: #ffe4c4;
+}
+
+.navbar{
+}
+
+.b{
+    color:grey;
+    float: right;
+    margin: 20px;
+    font-size: 25px;
+    font-family: cursive;
+    font-weight:bold; 
+    
+}
+
+a:hover{color: black;}
+
+.c{
+    height:250px;
+    width: 500px;
+    float: center;
+    line-height: 2;    
+}
+
+.logo{
+    font: italic small-caps bold 16px/2 cursive;
+    font-size: 70px;
+}
+.hrs{
+    height: 1px;
+    background-color: black;
+   
+}
+
+.image{
+    float:left;
+    height: 250px;
+    width: 300px;
+    margin-left: 150px;
+}
+
+.res{
+    height: 200px;
+    line-height: 2;
+}
+.menu{
+    margin-left: 100px;
+    font-size: 20px;
+}
+
+.sand{
+    height:200px;
+    width: 270px;
+}
+.imagesand{
+    
+    float: left;
+    margin-left: 100px;
+}
+
+
+.hrss{
+    height: 2px;
+}
+
+.d{
+    background-color: #deb887;
+    height: 130px;
+    margin-top: 250px;
+}
+
+.footer{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
